@@ -1,2 +1,2 @@
-# TELL
-Official Repository of the ECAI2024 Paper "Transparent Explainable Logic Layers"
+# Transparent Explainable Logic Layers
+Alessio Ragno, Marc Plantevit, Celine Robardet and Roberto Capobianco
