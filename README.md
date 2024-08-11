@@ -2,6 +2,9 @@
 Alessio Ragno, Marc Plantevit, Celine Robardet and Roberto Capobianco
 
 
+![](tell.png)
+
+
 Official repository of the ECAI2024 Paper. The code is based on the LENs repository:
 https://github.com/pietrobarbiero/logic_explained_networks.git
 
