@@ -3,7 +3,6 @@ Alessio Ragno, Marc Plantevit, Celine Robardet and Roberto Capobianco
 
 Published Paper: https://doi.org/10.3233/FAIA240579
 
-#ExplainableAI #XAI #MachineLearning #LogicLayers #AI #Research #ECAI2024
 
 ![](tell.png)
 
