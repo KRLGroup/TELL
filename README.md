@@ -1,7 +1,7 @@
 # Transparent Explainable Logic Layers
 Alessio Ragno, Marc Plantevit, Celine Robardet and Roberto Capobianco
 
-Published Paper: doi.org/10.3233/FAIA240579
+Published Paper: https://doi.org/10.3233/FAIA240579
 
 #ExplainableAI #XAI #MachineLearning #LogicLayers #AI #Research #ECAI2024
 
@@ -18,7 +18,8 @@ The full implementation of TELL is in `lens/models/logic.py`.
 A lighter implementation paired with an example is available in folder `example/`
 
 Cite our work:
-`@inbook{TELL2024,
+```
+@inbook{TELL2024,
   title = {Transparent Explainable Logic Layers},
   ISBN = {9781643685489},
   ISSN = {1879-8314},
@@ -29,4 +30,5 @@ Cite our work:
   author = {Ragno,  Alessio and Plantevit,  Marc and Robardet,  Celine and Capobianco,  Roberto},
   year = {2024},
   month = oct 
-}`
+}
+```
