@@ -11,7 +11,9 @@ Official repository of the ECAI2024 Paper. The code is based on the LENs reposit
 https://github.com/pietrobarbiero/logic_explained_networks.git
 
 The code to reproduce the experiments in the paper is in the `experiments/` folder.
-
+Some datasets must be downloaded from the original websites:
+- MIMIC: https://www.physionet.org/content/mimic2-iaccd/1.0/full_cohort_data.csv
+  
 The full implementation of TELL is in `lens/models/logic.py`.
 
 A lighter implementation paired with an example is available in folder `example/`
